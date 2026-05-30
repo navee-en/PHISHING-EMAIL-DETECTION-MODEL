@@ -1,0 +1,5 @@
+text,label
+"Your account is suspended. Click http://fake.com to verify",phishing
+"Meeting scheduled at 10 AM tomorrow",safe
+"Urgent! Update your password immediately http://hack.com",phishing
+"Project submission deadline is next week",safe
